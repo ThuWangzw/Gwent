@@ -1,0 +1,10 @@
+{
+	"name":"雷霆药水",
+	"CardID":29,
+	"quality":"铜",
+	"power":"0",
+	"position":"3",
+	"ability":"使3个相邻单位获得2点护甲和3点增益.",
+	"property":["炼金","特殊"],
+    "image"	:":/image/ThunderboltPotion"
+}

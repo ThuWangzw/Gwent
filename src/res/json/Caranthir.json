@@ -1,0 +1,10 @@
+{
+	"name":"卡兰希尔",
+	"CardID":7,
+	"quality":"金",
+	"power":"8",
+	"position":"3",
+	"ability":"部署：将1个敌军单位移至其所在半场同排，并在此排降下刺骨冰霜",
+	"property":["狂猎","法师"],
+	"image"	:":/image/Caranthir"
+}

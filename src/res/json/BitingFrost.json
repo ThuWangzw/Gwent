@@ -1,0 +1,10 @@
+{
+	"name":"刺骨冰霜",
+	"CardID":6,
+	"quality":"铜",
+	"power":"0",
+	"position":"4",
+	"ability":"在对方单排降下“刺骨冰霜”。刺骨冰霜：每当己方回合开始时，对所在排最弱的单位造成2点伤害（己方==>被施刺骨冰霜的一方）",
+    "property":["特殊","天气"],
+	"image"	:":/image/BitingFrost"
+}

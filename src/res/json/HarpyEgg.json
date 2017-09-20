@@ -1,0 +1,10 @@
+{
+	"name":"鹰身女妖蛋",
+	"CardID":21,
+	"quality":"铜",
+	"power":"1",
+	"position":"3",
+	"ability":"使吞噬自身的单位获得额夕卜4点增益遗愿：在随机排生成1只影身女妖幼崽",
+	"property":["佚亡"],
+	"image"	:":/image/HarpyEgg"
+}

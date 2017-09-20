@@ -1,0 +1,10 @@
+{
+	"name":"蟹蜘蛛",
+	"CardID":1,
+	"quality":"铜",
+	"power":"3",
+	"position":"2",
+	"ability":"部署：从牌组打出所有“蟹蜘蛛”",
+	"property":["类虫生物"],
+	"image"	:":/image/Arachas"
+}

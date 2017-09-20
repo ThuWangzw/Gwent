@@ -1,0 +1,10 @@
+{
+	"name":"破晓",
+	"CardID":15,
+	"quality":"铜",
+	"power":"0",
+	"position":"3",
+	"ability":"生成“晴空”或“重整”",
+	"property":["特殊"],
+	"image"	:":/image/FirstLight"
+}

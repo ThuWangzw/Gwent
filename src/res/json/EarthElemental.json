@@ -1,0 +1,10 @@
+{
+	"name":"土元素",
+	"CardID":14,
+	"quality":"铜",
+	"power":"6",
+	"position":"0",
+	"ability":"部署．获得护盾;遗愿：在该排末位生成2个“次级土元素”",
+	"property":["构造体"],
+	"image"	:":/image/EarthElemental"
+}

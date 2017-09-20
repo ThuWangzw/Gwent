@@ -1,0 +1,10 @@
+{
+	"name":"蔽日浓雾",
+	"CardID":22,
+	"quality":"铜",
+	"power":"0",
+	"position":"4",
+	"ability":"在对方单排降下“蔽日浓雾”蔽日浓雾：每当己方回合开始时，对所在排最强的单位造成2点伤害",
+	"property":["特殊","天气"],
+	"image"	:":/image/ImpenetrableFog"
+}

@@ -1,0 +1,10 @@
+{
+	"name":"大狮鹫",
+	"CardID":4,
+	"quality":"铜",
+	"power":"8",
+	"position":"3",
+	"ability":"部署：移除所在排的天气效果。将1张铜色牌从一方墓场置入另一方墓场。",
+	"property":["野兽"],
+	"image"	:":/image/Archgriffin"
+}

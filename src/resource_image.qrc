@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="image1">res/image/Arachas.png</file>
+        <file alias="image2">res/image/ArachasBehemoth.png</file>
+        <file alias="image3">res/image/ArachasLarva.png</file>
+        <file alias="image4">res/image/Archgriffin.png</file>
+        <file alias="image5">res/image/BekkersTwistedMirror.png</file>
+        <file alias="image6">res/image/BitingFrost.png</file>
+        <file alias="image7">res/image/Caranthir.png</file>
+        <file alias="image8">res/image/CelaenoHarpy.png</file>
+        <file alias="image9">res/image/CommandersHorn.png</file>
+        <file alias="image10">res/image/CroneBrewess.png</file>
+        <file alias="image11">res/image/CroneWeavess.png</file>
+        <file alias="image12">res/image/CroneWhispess.png</file>
+        <file alias="image13">res/image/Dagon.png</file>
+        <file alias="image14">res/image/EarthElemental.png</file>
+        <file alias="image15">res/image/FirstLight.png</file>
+        <file alias="image16">res/image/Foglet.png</file>
+        <file alias="image17">res/image/Frightener.png</file>
+        <file alias="image18">res/image/Geels.png</file>
+        <file alias="image19">res/image/GeraltIgni.png</file>
+        <file alias="image20">res/image/HarpyBaby.png</file>
+        <file alias="image21">res/image/HarpyEgg.png</file>
+        <file alias="image22">res/image/ImpenetrableFog.png</file>
+        <file alias="image23">res/image/Lacerate.png</file>
+        <file alias="image24">res/image/LesserEarthElemental.png</file>
+        <file alias="image25">res/image/RabidWolf.png</file>
+        <file alias="image26">res/image/Realign.png</file>
+        <file alias="image27">res/image/Roach.png</file>
+        <file alias="image28">res/image/Sunny.png</file>
+        <file alias="image29">res/image/ThunderboltPotion.png</file>
+        <file alias="image30">res/image/TorrentialRain.png</file>
+        <file alias="image31">res/image/UnseenElder.png</file>
+        <file alias="image32">res/image/VranWarrior.png</file>
+        <file alias="image33">res/image/WildHuntRider.png</file>
+        <file alias="image34">res/image/WoodlandSpirit.png</file>
+        <file alias="Melee">res/image/Melee.png</file>
+        <file alias="Ranged">res/image/Ranged.png</file>
+        <file alias="Siege">res/image/Siege.png</file>
+        <file alias="background">res/image/background.png</file>
+        <file alias="gamefield">res/image/game.png</file>
+        <file alias="back">res/image/CardBack.png</file>
+        <file alias="Lose">res/image/Lose.png</file>
+        <file alias="Win">res/image/Win.png</file>
+    </qresource>
+</RCC>

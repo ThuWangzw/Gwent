@@ -1,0 +1,10 @@
+{
+	"name":"蟹蜘蛛巨兽",
+	"CardID":2,
+	"quality":"铜",
+	"power":"6",
+	"position":"0",
+	"ability":"每当有友军单位吞噬1张牌，便在随机排生成1只“蟹蜘蛛幼虫”，随后受到1点伤害（无视护甲）。部署：获得2点护甲",
+	"property":["类虫生物"],
+	"image"	:":/image/ArachasBehemoth"
+}

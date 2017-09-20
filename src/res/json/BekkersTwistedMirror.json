@@ -1,0 +1,10 @@
+{
+	"name":"贝克尔的扭曲之境",
+	"CardID":5,
+	"quality":"银",
+	"power":"0",
+	"position":"3",
+	"ability":"对场上最强的单位造成数值等同于其战力的伤害，但最多不超过10点（无视护甲），并使场上最弱的非同名单位获得相同数值的增益。",
+	"property":["特殊","法术"],
+	"image"	:":/image/BekkersTwistedMirror"
+}

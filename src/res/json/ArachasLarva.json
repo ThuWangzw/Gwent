@@ -1,0 +1,10 @@
+{
+	"name":"蟹蜘蛛幼虫",
+	"CardID":3,
+	"quality":"铜",
+	"power":"3",
+	"position":"3",
+	"ability":"使 3 个相邻单位获得 2 点护甲和 3 点增益。",
+	"property":["类虫生物","佚亡"],
+	"image"	:":/image/ArachasLarva"
+}

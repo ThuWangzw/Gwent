@@ -1,0 +1,10 @@
+{
+	"name":"晴空",
+	"CardID":28,
+	"quality":"铜",
+	"power":"0",
+	"position":"3",
+	"ability":"移除己方半场所有的天气效果。",
+	"property":["天气","谋略","佚亡"],
+	"image"	:":/image/Sunny"
+}

@@ -1,0 +1,10 @@
+{
+	"name":"萝卜",
+	"CardID":27,
+	"quality":"银",
+	"power":"4",
+	"position":"3",
+	"ability":"己方每次从手牌打出金色牌时（领袖牌除外），便将牌组中的“萝卜”在其能力结算之前召唤至随机位置。",
+	"property":["野兽"],
+	"image"	:":/image/Roach"
+}

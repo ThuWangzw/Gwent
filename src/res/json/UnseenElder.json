@@ -1,0 +1,10 @@
+{
+	"name":"暗影长者",
+	"CardID":31,
+	"quality":"领袖",
+	"power":"5",
+	"position":"3",
+	"ability":"部署：吞噬1个友军单位，吸收它们的战力为自身的基础战力。重复两次。",
+	"property":["领袖牌","吸血鬼","佚亡","坚守"],
+	"image"	:":/image/UnseenElder"
+}

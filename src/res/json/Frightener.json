@@ -1,0 +1,10 @@
+{
+	"name":"畏惧者",
+	"CardID":17,
+	"quality":"银",
+	"power":"12",
+	"position":"4",
+	"ability":"部署：从牌组顶端抽1张牌。将所在战场其他排的1个单位移至自身的同一排。",
+	"property":["构造体","密探","佚亡"],
+	"image"	:":/image/Frightener"
+}

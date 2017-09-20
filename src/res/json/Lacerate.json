@@ -1,0 +1,10 @@
+{
+	"name":"撕裂",
+	"CardID":23,
+	"quality":"铜",
+	"power":"0",
+	"position":"4",
+	"ability":"对单排所有单位造成3点伤害。",
+	"property":["特殊","生物"],
+	"image"	:":/image/Lacerate"
+}

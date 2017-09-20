@@ -1,0 +1,10 @@
+{
+	"name":"蜥蜴人战士",
+	"CardID":32,
+	"quality":"铜",
+	"power":"6",
+	"position":"3",
+	"ability":"部署：吞噬右侧单位。每2回合，己方回合开始时，吞噬右侧单位。",
+	"property":["龙兽"],
+	"image"	:":/image/VranWarrior"
+}

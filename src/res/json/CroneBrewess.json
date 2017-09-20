@@ -1,0 +1,10 @@
+{
+	"name":"老巫妪：煮婆",
+	"CardID":10,
+	"quality":"银",
+	"power":"8",
+	"position":"2",
+	"ability":"部署：从牌组打出“织婆”和“呢喃婆”",
+	"property":["法师","残物"],
+	"image"	:":/image/CroneBrewess"
+}

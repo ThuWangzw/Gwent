@@ -1,0 +1,10 @@
+{
+	"name":"次级土元素",
+	"CardID":24,
+	"quality":"铜",
+	"power":"2",
+	"position":"3",
+	"ability":"",
+    "property":["佚亡","构造体"],
+	"image"	:":/image/LesserEarthElemental"
+}

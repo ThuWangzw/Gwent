@@ -1,0 +1,10 @@
+{
+	"name":"倾盆大雨",
+	"CardID":30,
+	"quality":"铜",
+	"power":"0",
+	"position":"4",
+	"ability":"在对方单排降下“倾盆大雨”倾盆大雨：每当己方回合开始时，对所在排最多2个随机单位造成1点伤害",
+    "property":["特殊","天气"],
+	"image"	:":/image/TorrentialRain"
+}

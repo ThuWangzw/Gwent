@@ -1,0 +1,11 @@
+{
+	"name":"盖尔",
+	"CardID":18,
+	"power":"12",
+	"quality":"金",
+	"power":"1",
+	"position":"3",
+	"ability":"部署：从牌组顶端各抽1张金色牌和银色牌。打出1张，将另1张置于牌组顶端。",
+	"property":["狂猎"],
+	"image"	:":/image/Geels"
+}

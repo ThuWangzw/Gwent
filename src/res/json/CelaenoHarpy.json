@@ -1,0 +1,10 @@
+{
+	"name":"赛尔伊诺鹰身女妖",
+	"CardID":8,
+	"quality":"铜",
+	"power":"5",
+	"position":"3",
+	"ability":"部署：在自身左侧生成2个“鹰身女妖蛋”",
+	"property":["野兽"],
+	"image"	:":/image/CelaenoHarpy"
+}

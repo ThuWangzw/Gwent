@@ -1,0 +1,41 @@
+<RCC>
+<qresource prefix="/json">
+    <file alias="json1">res/json/Arachas.json</file>
+    <file alias="json2">res/json/ArachasBehemoth.json</file>
+    <file alias="json3">res/json/ArachasLarva.json</file>
+    <file alias="json4">res/json/Archgriffin.json</file>
+    <file alias="json5">res/json/BekkersTwistedMirror.json</file>
+    <file alias="json6">res/json/BitingFrost.json</file>
+    <file alias="json7">res/json/Caranthir.json</file>
+    <file alias="json8">res/json/CelaenoHarpy.json</file>
+    <file alias="json9">res/json/CommandersHorn.json</file>
+    <file alias="json10">res/json/CroneBrewess.json</file>
+    <file alias="json11">res/json/CroneWeavess.json</file>
+    <file alias="json12">res/json/CroneWhispess.json</file>
+    <file alias="json13">res/json/Dagon.json</file>
+    <file alias="json14">res/json/EarthElemental.json</file>
+    <file alias="json15">res/json/FirstLight.json</file>
+    <file alias="json16">res/json/Foglet.json</file>
+    <file alias="json17">res/json/Frightener.json</file>
+    <file alias="json18">res/json/Geels.json</file>
+    <file alias="json19">res/json/GeraltIgni.json</file>
+    <file alias="json20">res/json/HarpyBaby.json</file>
+    <file alias="json21">res/json/HarpyEgg.json</file>
+    <file alias="json22">res/json/ImpenetrableFog.json</file>
+    <file alias="json23">res/json/Lacerate.json</file>
+    <file alias="json24">res/json/LesserEarthElemental.json</file>
+    <file alias="json25">res/json/RabidWolf.json</file>
+    <file alias="json26">res/json/Realign.json</file>
+    <file alias="json27">res/json/Roach.json</file>
+    <file alias="json28">res/json/Sunny.json</file>
+    <file alias="json29">res/json/ThunderboltPotion.json</file>
+    <file alias="json30">res/json/TorrentialRain.json</file>
+    <file alias="json31">res/json/UnseenElder.json</file>
+    <file alias="json32">res/json/VranWarrior.json</file>
+    <file alias="json33">res/json/WildHuntRider.json</file>
+    <file alias="json34">res/json/WoodlandSpirit.json</file>
+    <file alias="GroupSum">res/json/GroupSum.json</file>
+    <file alias="CardGroup0">res/json/CardGroup0.json</file>
+    <file alias="CardGroup1">res/json/CardGroup1.json</file>
+</qresource>
+</RCC>

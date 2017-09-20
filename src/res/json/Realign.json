@@ -1,0 +1,10 @@
+{
+	"name":"重整",
+	"CardID":26,
+	"quality":"铜",
+	"power":"0",
+	"position":"3",
+	"ability":"从牌组打出1张随机铜色单位牌。",
+	"property":["谋略","佚亡"],
+	"image"	:":/image/Realign"
+}

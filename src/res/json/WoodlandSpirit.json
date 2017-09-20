@@ -1,0 +1,10 @@
+{
+	"name":"林妖",
+	"CardID":34,
+	"quality":"金",
+	"power":"5",
+	"position":"3",
+	"ability":"部署：生成3只“暴怒的狼”，并在对方同排降下“蔽日浓雾”",
+	"property":["残物"],
+	"image"	:":/image/WoodlandSpirit"
+}

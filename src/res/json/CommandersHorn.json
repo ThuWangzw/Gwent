@@ -1,0 +1,10 @@
+{
+	"name":"指挥号角",
+	"CardID":9,
+	"quality":"银",
+	"power":"0",
+	"position":"3",
+	"ability":"使5个相邻单位获得4点增益。",
+	"property":["特殊","谋略"],
+	"image"	:":/image/CommandersHorn"
+}
